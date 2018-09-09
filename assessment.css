@@ -1,0 +1,33 @@
+body{
+    background-color:#AFA403;
+    color:#FA0276;
+    width: 600px;
+    margin-right: 222px;
+    margin-left : auto;
+    border-radius: 6px;
+    padding: 5px 5px 15px 25px;
+    border: 2px solid #007712
+    
+
+}
+
+button{
+    padding: 5px 20px;
+    background-color: #337AB7;
+    border-color: #2E6DA4;
+    border-style: none;
+    color:#ffffff
+    
+}
+
+input{
+    width: 400px;
+    marjin-left: 222px;
+    height:20px;
+}
+
+button:active{
+    color: #FFFFFF
+    transition-delay:  3s;
+    box-shadow: 0 2px 5px 0 rgba(0,0, 0, 0.26)
+}
